@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kusumaos.overlay.customization.navbar.nokeyboardhint"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:targetPackage="android" android:priority="1" />
+
+    <application android:label="NavigationBarNoHintKeyboard" android:hasCode="false"/>
+</manifest>
