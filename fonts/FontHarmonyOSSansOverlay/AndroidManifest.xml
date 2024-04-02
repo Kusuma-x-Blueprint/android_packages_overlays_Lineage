@@ -23,6 +23,6 @@
         android:label="@string/font_harmonyossans_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="harmonyossans-light,harmonyossans,harmonyossans-medium" />
+            android:value="harmonyossans-light,harmonyossans,harmonyossans-medium,harmonyossans-bold" />
     </application>
 </manifest>

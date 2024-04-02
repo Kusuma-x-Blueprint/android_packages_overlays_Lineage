@@ -23,6 +23,6 @@
         android:label="@string/font_redhattext_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="redhattext-light,redhattext,redhattext-medium" />
+            android:value="redhattext-light,redhattext,redhattext-medium,redhattext-bold" />
     </application>
 </manifest>

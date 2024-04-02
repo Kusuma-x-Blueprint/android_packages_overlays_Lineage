@@ -23,6 +23,6 @@
         android:label="@string/font_notosans_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="notosans,notosans-light,notosans-medium" />
+            android:value="notosans,notosans-light,notosans-medium,notosans-bold" />
     </application>
 </manifest>

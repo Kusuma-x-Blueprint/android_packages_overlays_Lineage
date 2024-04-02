@@ -23,6 +23,6 @@
         android:label="@string/font_fredoka_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="fredoka-light,fredoka,fredoka-medium" />
+            android:value="fredoka-light,fredoka,fredoka-medium,fredoka-bold" />
     </application>
 </manifest>

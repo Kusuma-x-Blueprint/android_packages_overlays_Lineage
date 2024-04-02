@@ -23,6 +23,6 @@
         android:label="@string/font_manrope_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="manrope-light,manrope,manrope-medium" />
+            android:value="manrope-light,manrope,manrope-medium,manrope-bold" />
     </application>
 </manifest>

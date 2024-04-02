@@ -23,6 +23,6 @@
         android:label="@string/font_oplussans_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="oplussans-light,oplussans,oplussans-medium" />
+            android:value="oplussans-light,oplussans,oplussans-medium,oplussans-bold" />
     </application>
 </manifest>
